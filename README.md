@@ -44,4 +44,4 @@ For mobile applications, Java uses ME or J2ME framework. This framework are the 
 
 <h3>Download JDK</h3>
 
-For running Java programs in your system you will have to download and install <a href="https://www.oracle.com/java/technologies/javase-downloads.html">JDK kit from here</a> (recommended Java Version is Java 11 but you can download Java 13 or Java 14).
+For running Java programs in your system you will have to download and install <a href="https://www.oracle.com/java/technologies/javase-downloads.html">JDK kit from here</a> (recommended Java Version is Java 11 but you can download Java 13 or Java 14)
