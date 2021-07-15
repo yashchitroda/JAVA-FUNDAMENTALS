@@ -14,7 +14,7 @@ Java Platform is a collection of programs that help programmers to develop and r
 Java is among the most popular programming languages out there, mainly because of how versatile and compatible it is. Java can be used for a large number of things, including software development, mobile applications, and large systems development. As of 2019, 88% market share of all smartphones run on Android, the mobile operating system written in Java. Knowing Java opens a great deal of doors for you as a developer.
 
 
-<h2>What Are Types of Java Application</h2>
+<h2>What Are Types of Java Application?</h2>
 
 Following are different types of applications that we can develop using Java:
 
