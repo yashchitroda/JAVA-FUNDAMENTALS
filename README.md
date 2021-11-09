@@ -16,7 +16,7 @@ Java is among the most popular programming languages out there, mainly because o
 
 <h2>What Are Types of Java Application?</h2>
 
-Following are different types of applications that can be develop using Java:
+## Following are different types of applications that can be develop using Java:
 
 <h3>1.Standalone Applications.</h3>
 
