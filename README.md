@@ -30,7 +30,7 @@ Web Applications are the client-server software application which is run by the 
 
 <i>Example: mail, e-commerce website, bank website etc.</i>
 
-<h3>3. Enterprise Applications</h3>
+<h3>3. Enterprise Applications.</h3>
 
 Enterprise application is middleware applications. To use software and hardware systems technologies and services across the enterprises. It is designed for the corporate area such as banking business systems.
 
