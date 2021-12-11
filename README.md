@@ -36,7 +36,7 @@ Enterprise application is middleware applications. To use software and hardware 
 
 <i>Example: e-commerce, accounting, banking information systems etc.</i>
 
- <h3>4. Mobile Application</h3>
+ <h3>4. Mobile Application.</h3>
 
 For mobile applications, Java uses ME or J2ME framework. This framework are the cross platform that runs applications across phones and smartphones. Java provides a platform for application development in Android too.
 
