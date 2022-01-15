@@ -27,7 +27,7 @@ Standalone applications are the application which runs on separate computer proc
 
 <h3>2. Web Applications.</h3>
 
-Web Applications are the client - server software application which is run by the client. Servlets, struts, JSP, Spring, hibernate etc. are used for the development of a client-server application eCommerce application is also developed in java using eCommerce platform i.e Broadleaf.
+Web Applications are the client - server software application which is run by the client. Servlets, Struts, JSP, Spring, hibernate etc. are used for the development of a client-server application eCommerce application is also developed in java using eCommerce platform i.e Broadleaf.
 
 <i>Example: mail, e-commerce website, bank website etc.</i>
 
