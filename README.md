@@ -23,7 +23,7 @@ Java is among the most popular programming languages out there, mainly because o
 
 Standalone applications are the application which runs on separate computer process without adding any file processes. The standalone application is also known as Java GUI Applications or Desktop Applications which uses some standard GUI components such as AWT(Abstract Windowing Toolkit), swing and JavaFX and this component are deployed to the desktop. These components have buttons, menu, tables, GUI widget toolkit, 3D graphics etc. using this component a traditional software is developed which can be installed in every machine.
 
-<i>Example: Media player, antivirus, Paint, POS Billing software, etc.</i>
+<i>Example: Media player, Antivirus, Paint, POS Billing software, etc.</i>
 
 <h3>2. Web Applications.</h3>
 
