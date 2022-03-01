@@ -6,7 +6,7 @@
 
 Java is a general purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is computing platform for application development. It is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc.
 
-<h2>What is Java Platform?</h2>
+<h2>What Is Java Platform?</h2>
 
 Java Platform is a collection of programs that help programmers to develop and run Java programming applications efficiently. It includes an execution engine, a compiler, and a set of libraries in it. It is a set of computer software and specifications. James Gosling developed the Java platform at Sun Microsystems, and the Oracle Corporation later acquired it.
 
