@@ -2,7 +2,7 @@
  <h1>Overview Of Java : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a></h1>
 
-<h2>What is Java?</h2>
+<h2>What's Java?</h2>
 
 Java is a general purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is computing platform for application development. It is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc.
 
