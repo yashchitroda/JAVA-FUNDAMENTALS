@@ -1,5 +1,5 @@
 
- <h1>Overview Of Java  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="41" height="41"/>
+ <h1>Overview Of Java: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="41" height="41"/>
   </a></h1>
 
 <h2>What's Java?</h2>
